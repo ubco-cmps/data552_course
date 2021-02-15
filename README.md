@@ -1,1 +1,1 @@
-# data552_course
+# DATA 550
