@@ -14,11 +14,11 @@ This is the official syllabus and course outline for {{ COURSE_CODE }}.
 
 The grading scheme for this course is here:
 
-| Item      | Weight          | Due date(s)          |
-|-----------|-----------------|----------------------|
-| Labs      | 50% (4 x 12.5%) | Thursdays at 18:00   |
-| Project 1 | 25%             | February 4 at 18:00  |
-| Project 2 | 25%             | February 11 at 18:00 |
+| Item           | Weight | Due date(s)       |
+|----------------|--------|-------------------|
+| 4 Labs         | 60%    | Tuesdays at 18:00 |
+| Presentation 1 | 20%    | March 9 at 18:00  |
+| Presentation 2 | 20%    | March 23 at 18:00 |
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
