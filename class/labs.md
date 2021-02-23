@@ -8,12 +8,12 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 
 | Lab            | Due Date                | Link to Accept            |
 |----------------|-------------------------|---------------------------|
-| Lab 1          | Tuesday Mar 2 at 18:00  | [Accept Lab]()            |
-| Lab 2          | Tuesday Mar 9 at 18:00  | [Accept Lab]()            |
-| Lab 3          | Tuesday Mar 16 at 18:00 | [Accept Lab]()            |
-| Lab 4          | Tuesday Mar 23 18:00    | [Accept Lab]()            |
-| Presentation 1 | Tuesday Mar 16 at 18:00 | [Accept Presentation 1]() |
-| Presentation 2 | Tuesday Mar 30 at 18:00 | [Accept Presentation 2]() |
+| Lab 1          | Thursday Mar 4 at 18:00  | [Accept Lab]()            |
+| Lab 2          | Thursday Mar 11 at 18:00  | [Accept Lab]()            |
+| Lab 3          | Thursday Mar 18 at 18:00 | [Accept Lab]()            |
+| Lab 4          | Thursday Mar 25 18:00    | [Accept Lab]()            |
+| Presentation 1 | Thursday Mar 18 at 18:00 | [Accept Presentation 1]() |
+| Presentation 2 | Thursday Apr 1 at 18:00 | [Accept Presentation 2]() |
 
 
 Once you click the link, a repository will automatically be created for you with some starter code.

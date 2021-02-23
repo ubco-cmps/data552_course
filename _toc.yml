@@ -27,23 +27,16 @@
   chapters:
     - file: class/labs
       title: Accept the Labs
-      sections:
-        - file: class/ggplot_practice
-          title: ggplot2 Practice 1
-        - file: class/ggplot_practice2
-          title: ggplot2 Practice 2
-        - file: class/altair_practice
-          title: Altair Practice 1
-        - file: class/altair_practice2
-          title: Altair Practice 2
+    - file: class/lab1
+      title: Lab 1 - Email Memo
 
-- part: Mini Projects
+- part: Presentations
   chapters:
-    - file: class/project1
-      title: Mini Project 1
-    - file: class/project2
-      title: Mini Project 2
-- part: Course Feedback
-  chapters:
-    - file: about/feedback
-      title: Anonymous Feedback Form
+    - file: class/presentation1
+      title: Presentation 1
+    - file: class/presentation2
+      title: Presentation 2
+# - part: Course Feedback
+#   chapters:
+#     - file: about/feedback
+#       title: Anonymous Feedback Form
