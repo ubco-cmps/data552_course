@@ -8,7 +8,7 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 
 | Lab            | Due Date                | Link to Accept            |
 |----------------|-------------------------|---------------------------|
-| Lab 1          | Thursday Mar 4 at 18:00  | [Accept Lab]()            |
+| Lab 1          | Thursday Mar 4 at 18:00  | [Accept Lab](https://classroom.github.com/g/dRaZSIhl)            |
 | Lab 2          | Thursday Mar 11 at 18:00  | [Accept Lab]()            |
 | Lab 3          | Thursday Mar 18 at 18:00 | [Accept Lab]()            |
 | Lab 4          | Thursday Mar 25 18:00    | [Accept Lab]()            |
