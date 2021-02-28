@@ -29,6 +29,10 @@
       title: Accept the Labs
     - file: class/lab1
       title: Lab 1 - Email Memo
+    - file: class/lab2
+      title: Lab 2 - Proposal & Report
+    - file: class/lab3
+    - file: class/lab4
 
 - part: Presentations
   chapters:
