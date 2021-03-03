@@ -32,7 +32,9 @@
     - file: class/lab2
       title: Lab 2 - Proposal & Report
     - file: class/lab3
+      title: Lab 3
     - file: class/lab4
+      title: Lab 4
 
 - part: Presentations
   chapters:
