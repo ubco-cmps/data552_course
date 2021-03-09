@@ -9,16 +9,17 @@
 
 | Time Slot     | Group # (According to Canvas) |
 | ------------- | ----------------------------- |
-| 10:20 - 10:20 |                               |
-| 10:20 - 10:40 |                               |
-| 10:40 - 11:00 |                               |
+| 10:00 - 10:20 | Group 10 (Zhiyan et al)       |
+| 10:20 - 10:40 | Group 11 (Aamir et al)        |
+| 10:40 - 11:00 | Group 9 (Fengcheng et al)     |
 | BREAK         | BREAK                         |
-| 1:30 - 1:50   |                               |
-| 1:50 - 2:10   |                               |
-| 2:10 - 2:30   |                               |
-| 2:30 - 2:50   |                               |
-| 2:50 - 3:10   |                               |
-| 3:10 - 3:30   |                               |
+| 1:30 - 1:50   | Group 14 (Nathan et al)       |
+| 1:50 - 2:10   | Group 8 (Eric et al)          |
+| 2:10 - 2:30   | Group 13 (Connor et al)       |
+| 2:30 - 2:50   | Group 5 (Sowmya et al)       |
+| 2:50 - 3:10   | Group 7 (Eric P et al)        |
+| 3:10 - 3:30   | Group 15 (Bohan et al)        |
+| 3:30 - 3:50   | Group 11 (Akshita et al)      |
 
 ## Information for the Audience
 
