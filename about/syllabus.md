@@ -16,9 +16,9 @@ The grading scheme for this course is here:
 
 | Item           | Weight | Due date(s)       |
 |----------------|--------|-------------------|
-| 4 Labs         | 60%    | Tuesdays at 18:00 |
-| Presentation 1 | 20%    | March 9 at 18:00  |
-| Presentation 2 | 20%    | March 23 at 18:00 |
+| 4 Labs         | 60%    | Thursdays at 18:00 |
+| Presentation 1 | 20%    | March 11 at 10:00  |
+| Presentation 2 | 20%    | March 23 at 10:00 |
 
 ```{attention} 
 All deadlines in this course have an automatic 48 hour grace period after the due dates listed above.
