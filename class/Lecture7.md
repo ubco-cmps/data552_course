@@ -1,8 +1,8 @@
-# Lecture 5
+# Lecture 7
 
-Lecture 5 Slides:
+Lecture 7 Slides:
 
-<iframe src="../data_552_Presentations_lecture5.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Attribution:
 

@@ -10,7 +10,7 @@
 | Time Slot     | Group # (According to Canvas) |
 | ------------- | ----------------------------- |
 | 10:00 - 10:20 | Group 10 (Zhiyan et al)       |
-| 10:20 - 10:40 | Group 11 (Aamir et al)        |
+| 10:20 - 10:40 | Group 2 (Aamir et al)        |
 | 10:40 - 11:00 | Group 9 (Fengcheng et al)     |
 | BREAK         | BREAK                         |
 | 1:30 - 1:50   | Group 14 (Nathan et al)       |
