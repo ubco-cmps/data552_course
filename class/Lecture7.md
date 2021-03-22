@@ -2,7 +2,7 @@
 
 Lecture 7 Slides:
 
-<iframe src="../.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
+<iframe src="../data_552_WritingReports_lecture7.pdf" width="100%" height="800px" frameBorder="0"> </iframe>
 
 ## Attribution:
 
