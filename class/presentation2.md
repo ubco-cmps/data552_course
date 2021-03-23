@@ -7,18 +7,19 @@
 - You are expected to attend and provide feedback to all of talks.
 - Presentations will be recorded, but you **must** attend the lecture and the lab during the presentations unless you make prior arrangements with the instructor.
 
-| Time Slot     | Group # (According to Canvas) |
-|---------------|-------------------------------|
-| 10:20 - 10:20 |                               |
-| 10:20 - 10:40 |                               |
-| 10:40 - 11:00 |                               |
-| BREAK         | BREAK                         |
-| 1:30 - 1:50   |                               |
-| 1:50 - 2:10   |                               |
-| 2:10 - 2:30   |                               |
-| 2:30 - 2:50   |                               |
-| 2:50 - 3:10   |                               |
-| 3:10 - 3:30   |                               |
+| Time Slot       | Group # (According to Canvas) |
+| --------------- | ----------------------------- |
+| 10:30 - 10:50   | Mona & Zhiyan, Group 10                 |
+| 10:50 - 11:10   | Connor, Tony, Naveen, Graham, Group 13  |
+| 11:10 - 11:30   | Afreen and Akshita, Group 11            |
+| 11:30 - 11:50   | Aamir, Conrad, Mandar, Samuel, Group 2. |
+| 11:50 - 12:10   | Poojitha, Sowmya, Yatin, Aditya, Group 5|
+| BREAK           | BREAK                                   |
+| 2:00 - 2:20     | Nathan, Mitch H, Sophia, Ryan, Group 14 |
+| 2:20 - 2:40     | Thomson, Eric, Mitch, Group 7           |
+| 2:40 - 3:00     | Eric, Luja, Rain, Yuxuan, Group 8       |
+| 3:00 - 3:20     | Bohan Gao, Vicens Paneque, Group 15     |
+| 3:20 - 3:40     | Haotian and Fengcheng, Group 9          | 
 
 ## Information for the Presenters
 
